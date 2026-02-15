@@ -26,9 +26,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 * Microsoft Power BI
 
-## Credits
-
-Throughout the development of this project, I have sought inspiration from a pivotal video source: https://youtu.be/6cV3OwFrOkk
+deo source: https://youtu.be/6cV3OwFrOkk
 
 ## Badges
 
@@ -79,3 +77,7 @@ The results of the project are as follows:
 
 The project was successful in answering the set of questions about the store's business performance. The results of the project can be used by the store to make decisions about its marketing and product offerings.
 
+##Author
+Spandita Goswami
+cse undergraduate|Aspiring Data Analyst &
+Data Scientist
