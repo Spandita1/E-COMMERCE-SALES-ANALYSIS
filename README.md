@@ -43,6 +43,11 @@ deo source: https://youtu.be/6cV3OwFrOkk
 ## Conclusion
 
 The project was successful in answering the set of questions about an E-commerce Store's performance. The results of the project can be found in result.txt file.
+##Author
+Spandita Goswami
+cse undergraduate|Aspiring Data Analyst &
+Data Scientist
+
 
 
 <!--## How to Contribute
