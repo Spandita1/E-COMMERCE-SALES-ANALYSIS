@@ -1,7 +1,8 @@
 # E-COMMERCE-SALES-ANALYSIS
 ## Description
 
-This repository contains a Power Bi dashboard of an E-commerce store to answer questions about the data. The insights of the dashboard can be found in the results.txt file.  This repository can be used as a starting point for anyone who wants to learn how to use Power Bi to analyze data.
+This project presents an interactive **E-commerce Sales Power BI Dashboard** designed to analyze sales performance and customer purchasing patterns. The dashboard highlights key business insights such as top-selling products, cities with the highest number of purchases, revenue trends, profit analysis, and category-wise sales performance. Using dynamic charts, filters, and KPI visuals, users can easily identify the most purchased products, high-performing locations, and customer buying behavior. The project demonstrates practical skills in data cleaning, visualization, business analytics, and dashboard development using Microsoft Power BI.
+
 <!--Analyzed E-commerce store data. Created an interactive dashboard using Power BI.-->
 
 ## Screenshot
